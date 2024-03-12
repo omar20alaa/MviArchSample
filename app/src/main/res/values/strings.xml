@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MviArch</string>
+    <string name="title">This is title :</string>
+    <string name="desc">This is desc .</string>
+</resources>
